@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KicksKenya/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/KicksKenya/static/js/main.a758ce65.chunk.js",
+    "main.js.map": "/KicksKenya/static/js/main.a758ce65.chunk.js.map",
+    "runtime-main.js": "/KicksKenya/static/js/runtime-main.f0a5c796.js",
+    "runtime-main.js.map": "/KicksKenya/static/js/runtime-main.f0a5c796.js.map",
+    "static/js/2.837eac82.chunk.js": "/KicksKenya/static/js/2.837eac82.chunk.js",
+    "static/js/2.837eac82.chunk.js.map": "/KicksKenya/static/js/2.837eac82.chunk.js.map",
+    "static/js/3.098e5f45.chunk.js": "/KicksKenya/static/js/3.098e5f45.chunk.js",
+    "static/js/3.098e5f45.chunk.js.map": "/KicksKenya/static/js/3.098e5f45.chunk.js.map",
+    "index.html": "/KicksKenya/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/KicksKenya/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.837eac82.chunk.js.LICENSE.txt": "/KicksKenya/static/js/2.837eac82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0a5c796.js",
+    "static/js/2.837eac82.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a758ce65.chunk.js"
+  ]
+}
